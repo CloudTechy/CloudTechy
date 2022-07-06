@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can call me Chuks. 
-
-I'm a software engineer and a digital marketer, I  currently work as a Program Analyst at Nnamdi Azikiwe University teaching hospital(NAUTH). My Job role entails the following:
+I  currently work as a Program Analyst at Nnamdi Azikiwe University teaching hospital(NAUTH). My Job role entails the following:
 
 - Perform critcical update to the hospital management information system 
 - Maintaining the network infrastructure 
 - Providing technical assistance to non technical staffs and the hospital patients.
-
-In summary, I make sure that the software serves the need of all hospital stakeholders.
 
 ### Tech stack
 
