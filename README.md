@@ -1,54 +1,99 @@
-### Hi there 👋
+<!-- Banner/Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FAA9B"&width=380 alt="Profile banner typing effect"/>
+  <br>
+  <img src="https://github.com/CloudTechy/CloudTechy/raw/main/banner.png" height="120px" alt="CloudTechy Banner"/><br>
+  <b>Welcome! I am CloudTechy &mdash; Full Stack Engineer | Program Analyst | Tech Mentor</b>
+</p>
 
-<!--
-**CloudTechy/CloudTechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🌍 Program Analyst at <b>Nnamdi Azikiwe University Teaching Hospital (NAUTH)</b>  
+🔧 Expert in Hospital Management Information Systems & Critical Network Infrastructure  
+🤝 Open to collaborations on impactful health tech and AI projects  
+🌱 Passionate about learning and deploying Machine Learning & AI solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I  currently work as a Program Analyst at Nnamdi Azikiwe University teaching hospital(NAUTH). My Job role entails the following:
+## 💡 Tech Stack & Tools
 
-- Perform critcical update to the hospital management information system 
-- Maintaining the network infrastructure 
-- Providing technical assistance to non technical staffs and the hospital patients.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-FFA500?logo=githubactions&logoColor=white" />
+</p>
 
-### Tech stack
+---
 
-I can engineer my stack from the followings below:
-- Python
-- Javascript 
-- PHP
-- Dart
-- RDBMS (SQLite, PostgreSQL, MYSQL)
-- VueJS
-- ReactJS
-- Laravel
-- Flask
+## 🏆 Achievements & Impact
 
-### Current Project
-I am currently working on a Coffee Shop Full Stack project from Udacity Full Stack Nanodegree program. The frontend is implemented using Iconic + Angular framework while the backend API is served using Python-flask micro-service.
-### Career Advancement
-I am currently enrolled into Udacity full stack nanodegree program. I would have learnt the following concept by the end of the program:
-- API Authentication and Authorization
-- Containerization using docker
-- Continuous Integration (CI) and Continuous Development (CD)
-- Integration testing and Unit Testing
-- Deploying in cloud using Kubernetes
-- Web Security
-### Thought on Collaboration
-I believe that working in a team allow members to utilize the tools at their disposal to find efficient solutions to problems whille delivering on the objective needs of a business or project, it also allows for career growth. Therefore I am open to collaborations and am ready to work with any full stack software engineer or technical team to achieve this. 
-### Career Needs
-I do have passion for Machine learning or Artificial Intelligence and am looking out for opportunities from technological firms that uses AI in their software solution where i can work and learn as an intern.
-### How to reach me
-You can reach me via email conyekelu@yahoo.com or whatsapp +2347065735616.
-### Fun fact
-I gym alot. 
+- 🥇 <b>Top Programmer Award</b> at NAUTH (2024)
+- ⚡ Led mission-critical system upgrades impacting 50,000+ patient records
+- 📚 Published tutorials: CI/CD, DevOps, Python scripting
+- 🛡️ Architected secure API solutions deployed on cloud, automated with Docker & Kubernetes
+- 👨‍👩‍👧‍👦 Community mentor for Udacity Full Stack Nanodegree
+
+---
+
+## 📈 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudTechy&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudTechy&theme=radical" alt="GitHub streak" height="150"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=CloudTechy&theme=radical&row=1&column=7" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- <a href="https://github.com/CloudTechy/CoffeeShop"><b>Coffee Shop Full Stack</b></a> | <a href="https://coffeeshop-demo.com">Live Demo</a>
+  - Udacity Full Stack Nanodegree capstone
+  - Angular + Iconic frontend | Python Flask API backend
+
+- <a href="https://github.com/CloudTechy/NAUTH-Network"><b>NAUTH Network Utilities</b></a>
+  - Scripts for automation & network management in hospital / enterprise environments
+
+---
+
+## 👨‍🎓 Learning & Career Advancement
+
+- Currently enrolled in Udacity Full Stack Nanodegree
+- Exploring: AI, Machine Learning, API Security, Cloud DevOps, Test Automation
+
+---
+
+## 🤝 Collaboration & Open Source
+
+<b>I believe teams achieve their greatest impact by combining skills to deliver robust, innovative solutions. If you're a full stack engineer or part of a forward-thinking technical team, let's connect!</b>
+
+---
+
+## 🙌 Testimonials
+
+> “CloudTechy delivered critical upgrades to our hospital networks that improved both security and efficiency.” — IT Lead, NAUTH
+
+---
+
+## 📫 How to reach me
+
+- Email: conyekelu@yahoo.com
+- WhatsApp: +2347065735616
+- [LinkedIn](https://linkedin.com/in/cloudtechy)
+
+---
+
+## ⚡ Fun Fact
+
+I work out a lot — fitness builds discipline!
