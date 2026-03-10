@@ -76,7 +76,7 @@
 
 - Email: conyekelu@yahoo.com
 - WhatsApp: +2347065735616
-- [LinkedIn](https://linkedin.com/in/cloudtechy)
+- [LinkedIn](https://linkedin.com/in/chukwuebuka-onyekelu)
 
 ---
 
