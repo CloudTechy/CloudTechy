@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-🌍 Program Analyst at <b>Nnamdi Azikiwe University Teaching Hospital (NAUTH)</b>  
+🌍 Senior Software Engineer at <b>Tech4Mation</b>  
 🔧 Expert in Hospital Management Information Systems & Critical Network Infrastructure  
 🤝 Open to collaborations on impactful health tech and AI projects  
 🌱 Passionate about learning and deploying Machine Learning & AI solutions
