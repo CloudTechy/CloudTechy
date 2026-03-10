@@ -1,8 +1,5 @@
 <!-- Banner/Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FAA9B"&width=380 alt="Profile banner typing effect"/>
-  <br>
-  <img src="https://github.com/CloudTechy/CloudTechy/raw/main/banner.png" height="120px" alt="CloudTechy Banner"/><br>
   <b>Welcome! I am CloudTechy &mdash; Full Stack Engineer | Program Analyst | Tech Mentor</b>
 </p>
 
@@ -46,23 +43,12 @@
 
 ---
 
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudTechy&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudTechy&theme=radical" alt="GitHub streak" height="150"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=CloudTechy&theme=radical&row=1&column=7" alt="GitHub trophies"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
-- <a href="https://github.com/CloudTechy/CoffeeShop"><b>Coffee Shop Full Stack</b></a> | <a href="https://coffeeshop-demo.com">Live Demo</a>
+- [Coffee Shop Full Stack](https://github.com/CloudTechy/CoffeeShop) | [Live Demo](https://coffeeshop-demo.com)
   - Udacity Full Stack Nanodegree capstone
   - Angular + Iconic frontend | Python Flask API backend
 
-- <a href="https://github.com/CloudTechy/NAUTH-Network"><b>NAUTH Network Utilities</b></a>
+- [NAUTH Network Utilities](https://github.com/CloudTechy/NAUTH-Network)
   - Scripts for automation & network management in hospital / enterprise environments
 
 ---
